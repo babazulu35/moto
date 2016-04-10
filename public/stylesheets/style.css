@@ -1,0 +1,33 @@
+.badge {
+  border-radius: 4px;
+  padding: 5px 5px;
+  font-size:11px;
+  text-align: center;
+}
+i {
+  vertical-align: middle;
+  font-size:28px !important;
+}
+h3 {
+  font-size: 20px;
+}
+i.material-icons{
+  left:45% !important;
+}
+.form-group {
+	margin:0px;
+}
+.well {
+	margin-top:30%;
+}
+fieldset{
+	margin:0px;
+	padding:0px;
+}
+.form-horizontal .form-group {
+	margin:0px;
+	padding:0px;
+}
+.form-group .form-control {
+	margin-bottom:15px;
+}
